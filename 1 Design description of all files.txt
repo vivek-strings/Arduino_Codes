@@ -1,0 +1,31 @@
+D1- It shows the current state of the button.
+
+D2- It shows whether the button has been pressed or not.
+
+D3-This program will blink two LEDs together and then switch them off for half a second. This loop continues.
+
+D4- A basic program to send serial data from Arduino to the PC.
+
+D5- Turn an LED ON or OFF using a switch.
+
+D6- A very crude light sensor circuit using LDR in Analog input mode
+
+D7- Controlling a DC motor after interfacing it with arduino using an L293D motor driver.
+
+D8- Using a Tilt sensor.
+
+D9- Using a Passive Infrared Sensor to detect presence of human motion in the range of PIR.
+
+D10- A temperature sensor circuit using LM35.
+
+D11- A simple program to control a buzzer
+
+D12- Interfacing a seven segment display. It continuously displays 0 through 9.
+
+D13- A temperature sensor circuit using LM35 in analogRead mode. In this the value is obtained on analog pin 0 and according the temperature range, one of the three LEDs is lit up.
+
+D14-A tone generator circuit to produce a simple melody like effect
+
+D15-Fading LED effect using PWM on Digital pin 9 and analogWrite. The value changes between 0-250 and hence the voltage applied to the LED varies.
+
+D16-Interfacing a 16x2 LCD display with Arduino and then printing a text that scrolls across the screen.
